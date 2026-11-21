@@ -1,0 +1,14 @@
+# generated/copied game assets inside the wrapper
+android/app/src/main/assets/www/
+
+# android build outputs
+android/local.properties
+android/.gradle/
+android/build/
+android/app/build/
+android/.idea/
+android/captures/
+
+# misc
+.DS_Store
+Thumbs.db
